@@ -1,2 +1,1 @@
-# some-page
-test
+# Built with [primo](https://primocloud.io)
